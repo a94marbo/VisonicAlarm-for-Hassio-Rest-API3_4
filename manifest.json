@@ -7,6 +7,6 @@
     "python-dateutil==2.7.3"
   ],
   "dependencies": [],
-  "codeowners": ["@And3rsL"]
+  "codeowners": ["@And3rsL,a94marbo"],1
   "version": "1.0.0"
 }
